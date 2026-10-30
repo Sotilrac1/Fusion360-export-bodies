@@ -43,6 +43,10 @@ Export every body in your Fusion 360 design as its own STL, 3MF or OBJ file, in 
 
 [Watch on YouTube](https://www.youtube.com/@CodeandCraft3D)
 
+## Youtube Channel
+
+[YouTube](https://www.youtube.com/@CodeandCraft3D)
+
 ## Notes
 
 - Version 1.1.0. Tested on Fusion for Mac. Windows reports are welcome in [Issues](../../issues).
