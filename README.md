@@ -42,7 +42,6 @@ Export every body in your Fusion 360 design as its own STL, 3MF or OBJ file, in 
 ## Video walkthrough
 [![Free Fusion 360 Script: Batch Export Bodies to STL, 3MF and OBJ](https://img.youtube.com/vi/wJX0lfUkeh8/hqdefault.jpg)](https://www.youtube.com/watch?v=wJX0lfUkeh8)
 
-[Watch on YouTube]([https://www.youtube.com/@CodeandCraft3D](https://youtu.be/gMvrRWc-a1c))
 
 ## Youtube Channel
 
