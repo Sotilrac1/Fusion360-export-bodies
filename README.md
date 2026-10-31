@@ -41,7 +41,7 @@ Export every body in your Fusion 360 design as its own STL, 3MF or OBJ file, in 
 
 ## Video walkthrough
 
-[Watch on YouTube](https://www.youtube.com/@CodeandCraft3D)
+[Watch on YouTube]([https://www.youtube.com/@CodeandCraft3D](https://youtu.be/gMvrRWc-a1c))
 
 ## Youtube Channel
 
